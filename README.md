@@ -1,3 +1,3 @@
-# Planejamento 1ºB
+# Planejamento
 
 <html>Planejamento</html>
