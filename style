@@ -1,1 +1,16 @@
+h3 {color: blue;
+}
+header {background-color: rgb(7, 235, 168);}
+header, footer {background-color: rgb(7, 235, 168);
+}
 
+#imagemprincipal {
+	widht:  100%;
+	height:  200 px;
+	border:  2px solid black;
+	margin: 20px;
+	padding: 20px;
+
+}
+
+#"parágrafoid" {font-size: ;} 
